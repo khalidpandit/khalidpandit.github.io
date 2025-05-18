@@ -36,7 +36,7 @@ SA Banday, <b> <span  style="color: Black;"> Mohammad Khalid Pandit</span> </b>,
  <h3> Conferences </h3>
   <ol>
   <li>
-<a href="https://ieeexplore.ieee.org/abstract/document/10419280"> [IEEE ICASSP] </a>Sajad Ahmad Rather, Akhilesh Kandwal, <b> <span  style="color: Black;"> Mohammad Khalid Pandit</span> </b>, Partha Pratim Roy ”Quantum-Behaved Particle Swarm Optimization for the Segmentation of Kidney Stone CT Images" in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.
+<a href="https://ieeexplore.ieee.org/abstract/document/10887634"> [IEEE ICASSP] </a>Sajad Ahmad Rather, Akhilesh Kandwal, <b> <span  style="color: Black;"> Mohammad Khalid Pandit</span> </b>, Partha Pratim Roy ”Quantum-Behaved Particle Swarm Optimization for the Segmentation of Kidney Stone CT Images" in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.
  </li>
   <li>
 <a href="https://ieeexplore.ieee.org/abstract/document/10419280"> [ACM/IEEE SEC] </a> A Saini, Omkar S,<b> <span  style="color: Black;"> Mohammad Khalid Pandit</span> </b>, R Sen, Gayathri A ”Bang for the Buck: Evaluating the cost-effectiveness of Heterogeneous Edge Platforms for Neural Network Workloads" in ACM/IEEE Symposium on Edge Computing (SEC) 2023 Wilmington, DE, USA.
