@@ -20,6 +20,7 @@ redirect_from:
 
 ## Recent News
 <p class="common_list bullet_list edu_list">[Nov 2025] Paper of M.Tech Students Sankalp & Piyush and Baiza S (Ph.D. SKUAST-K) has been accepted in Applied Fruit Science (Springer). This work is done in collaboration with IIT Delhi and Div. of fruit science, SKUAST-K.</p>
+<p class="common_list bullet_list edu_list">[Sept 2025] Delivered talk at Malaviya Mission Teacher Training Centre, University of Kashmir in the Refesher Course on Artificial Intelligence and Machine Learning. </p>
 <p class="common_list bullet_list edu_list">[July 2025] Paper of M.Tech Students Piyush & Sankalp and Baiza S (Ph.D. SKUAST-K) has been accepted in NCVPRIG (IIT Jammu). This work is done in collaboration with IIT Delhi and Div. of fruit science, SKUAST-K.</p>
 <p class="common_list bullet_list edu_list">[April 2025] Recieved a project grant for developing LLM based AI system for Indian Legal system from iHub and HCI Foundation, IIT Mandi.</p>
 <p class="common_list bullet_list edu_list">[April 2025] Paper titled, <a href="https://ieeexplore.ieee.org/abstract/document/10887634"> Quantum-Behaved Particle Swarm Optimization for the Segmentation of Kidney Stone CT Images</a> accepted in ICASSP 2025.</p>
