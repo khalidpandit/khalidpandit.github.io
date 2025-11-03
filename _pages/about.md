@@ -19,6 +19,8 @@ redirect_from:
 *  My research primarily focuses on Efficient Deep Learning, algorithm development for efficient execution at edge, and exploring potential of edge GPUs. 
 
 ## Recent News
+<p class="common_list bullet_list edu_list">[Nov 2025] Paper of M.Tech Students Sankalp & Piyush and Baiza S (Ph.D. SKUAST-K) has been accepted in Applied Fruit Science (Springer). This work is done in collaboration with IIT Delhi and Div. of fruit science, SKUAST-K.</p>
+<p class="common_list bullet_list edu_list">[July 2025] Paper of M.Tech Students Piyush & Sankalp and Baiza S (Ph.D. SKUAST-K) has been accepted in NCVPRIG (IIT Jammu). This work is done in collaboration with IIT Delhi and Div. of fruit science, SKUAST-K.</p>
 <p class="common_list bullet_list edu_list">[April 2025] Recieved a project grant for developing LLM based AI system for Indian Legal system from iHub and HCI Foundation, IIT Mandi.</p>
 <p class="common_list bullet_list edu_list">[April 2025] Paper titled, <a href="https://ieeexplore.ieee.org/abstract/document/10887634"> Quantum-Behaved Particle Swarm Optimization for the Segmentation of Kidney Stone CT Images</a> accepted in ICASSP 2025.</p>
 <p class="common_list bullet_list edu_list">[Feb 2025] Two Papers form our group accepted at SocPros-2025.</p>
