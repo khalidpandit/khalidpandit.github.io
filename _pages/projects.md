@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>Spiking neural network based computational model for internet of things</td>
-    <td>NPIU, Ministry of Hugher Education (Formerly MHRD)</td>
+    <td>NPIU, Ministry of Higher Education (Formerly MHRD)</td>
     <td>11,37,000</td>
     <td>Completed</td>
     <td>PI</td>
