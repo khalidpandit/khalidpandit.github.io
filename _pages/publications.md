@@ -8,6 +8,10 @@ author_profile: true
 <h3> Journals </h3>
 <ol>
   <li>
+<a href="[https://dl.acm.org/doi/full/10.1145/3611016](https://dl.acm.org/doi/abs/10.1145/3801093)"> [ACM TOSN] </a> Omais Shafi,<b> <span  style="color: Black;"> Mohammad Khalid Pandit</span> </b>, Arpan Gujarati, Aastha Mehta, Rijurekha Sen, ”IceEdge: Thermal-Aware Machine Learning Inference Serving for Emerging Edge Applications”, in ACM Transactions on Sensor Networks, 2026.
+  </li>
+<li>
+  <li>
 <a href="https://dl.acm.org/doi/full/10.1145/3611016"> [ACM JETC] </a> Omais Shafi,<b> <span  style="color: Black;"> Mohammad Khalid Pandit</span> </b>, A Saini, Gayathri A, R Sen, ”Repercussions of Using DNN Compilers on Edge GPUs for Real Time and Safety Critical Systems: A Quantitative Audit”, in ACM Journal on Emerging Technologies in Computing Systems, 2023.
   </li>
 <li>
@@ -17,6 +21,10 @@ author_profile: true
 <a href="https://ieeexplore.ieee.org/abstract/document/9372948"> [IEEE TETCI] </a> <b> <span  style="color: Black;"> Mohammad Khalid Pandit</span> </b>, Roohie Naaz Mir, Mohammad Ahsan Chishti, ”Learning Sparse Neural Networks Using
 Non-Convex Regularization”, in IEEE Transactions on Emerging Topics in Computational Intelligence.
 </li>
+  <li>
+<a href="[https://link.springer.com/article/10.1007/s10341-025-01696-x](https://dl.acm.org/doi/abs/10.1145/3801093)"> [Applied Fruit Science (Erwerbs-Obstbau)] </a> Biaza Sidiqi, Sankalp Gupta, Mahroosh, Piyush Kumar, Ashiq H Pandit,<b> <span  style="color: Black;"> Mohammad Khalid Pandit</span> </b>, ”Machine Learning Framework for Phenological Stage Prediction of Apple: A Case Study of the Kashmir Division”, in Applied Fruit Science (Erwerbs-Obstbau),Springer, 2025.
+  </li>
+<li>
   <li>
 <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/el.2020.0992"> [IET Ele Letters] </a> SA Banday, <b> <span  style="color: Black;"> Mohammad Khalid Pandit</span> </b>, A R Khan, ”Achieving a reversible lower dimensionality transformation for picture archiving and communication system in healthcare”, in IET Electronics Letters.
 </li>
