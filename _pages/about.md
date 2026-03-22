@@ -19,7 +19,7 @@ redirect_from:
 *  My research primarily focuses on Efficient Deep Learning, algorithm development for efficient execution at edge, and exploring potential of edge GPUs. 
 
 ## Recent News
-<p class="common_list bullet_list edu_list">[Mar 2026] Paper titled <<a href="https://dl.acm.org/doi/abs/10.1145/3801093"> IceEdge: Thermal-Aware Machine Learning Inference Serving for Emerging Edge Applications</a>,accepted in ACM Transactions on Sensor Networks.</p>
+<p class="common_list bullet_list edu_list">[Mar 2026] Paper titled <a href="https://dl.acm.org/doi/abs/10.1145/3801093"> IceEdge: Thermal-Aware Machine Learning Inference Serving for Emerging Edge Applications</a>,accepted in ACM Transactions on Sensor Networks.</p>
 <p class="common_list bullet_list edu_list">[Nov 2025] Paper of M.Tech Students Sankalp & Piyush and Baiza S (Ph.D. SKUAST-K) has been accepted in Applied Fruit Science (Springer). This work is done in collaboration with IIT Delhi and Div. of fruit science, SKUAST-K.</p>
 <p class="common_list bullet_list edu_list">[Sept 2025] Delivered talk at Malaviya Mission Teacher Training Centre, University of Kashmir in the Refesher Course on Artificial Intelligence and Machine Learning. </p>
 <p class="common_list bullet_list edu_list">[July 2025] Paper of M.Tech Students Piyush & Sankalp and Baiza S (Ph.D. SKUAST-K) has been accepted in NCVPRIG (IIT Jammu). This work is done in collaboration with IIT Delhi and Div. of fruit science, SKUAST-K.</p>
