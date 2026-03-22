@@ -41,7 +41,7 @@ author_profile: true
     <td>Co-PI</td>
   </tr>
   <tr>
-    <td>Design of CADe and CADx system using information beyond human perception/td>
+    <td>Design of CADe and CADx system using information beyond human perception</td>
     <td>TEQIP</td>
     <td>2,00,000</td>
     <td>Completed</td>
