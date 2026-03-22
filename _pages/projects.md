@@ -33,14 +33,14 @@ author_profile: true
     <td>Completed</td>
     <td>PI</td>
   </tr>
-      <tr>
+  <tr>
     <td>Using Longitudinal data for early detection and progress Monitoring of Alzheimer's disease</td>
     <td>JK-DST</td>
     <td>7,09,000</td>
     <td>Completed</td>
     <td>Co-PI</td>
   </tr>
-        <tr>
+  <tr>
     <td>Design of CADe and CADx system using information beyond human perception/td>
     <td>TEQIP</td>
     <td>2,00,000</td>
