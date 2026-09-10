@@ -19,6 +19,8 @@ redirect_from:
 *  My research primarily focuses on Efficient Deep Learning, algorithm development for efficient execution at edge, and exploring potential of edge GPUs. 
 
 ## Recent News
+<p class="common_list bullet_list edu_list">[Sept 2026] Paper titled <a href=""> InLegalLaySum: A Novel Benchmark for Lay Summarization of Indian Legal Documents</a>,accepted in the Findings of AACL 2026 to be held in Hengqin, China. This work was carried out as part of project "Large Language Models for Legal Assistance. This work was done in collaboration with IIT Kharagpur."</p>
+<p class="common_list bullet_list edu_list">[Aug 2026] Papers of M.Tech students Priyank, Umesh and Rajeshwari accepted for publication in IEEE CVMI and CVIP 2026.</p>
 <p class="common_list bullet_list edu_list">[Mar 2026] Paper titled <a href="https://dl.acm.org/doi/abs/10.1145/3801093"> IceEdge: Thermal-Aware Machine Learning Inference Serving for Emerging Edge Applications</a>,accepted in ACM Transactions on Sensor Networks.</p>
 <p class="common_list bullet_list edu_list">[Nov 2025] Paper of M.Tech Students Sankalp & Piyush and Baiza S (Ph.D. SKUAST-K) has been accepted in Applied Fruit Science (Springer). This work is done in collaboration with IIT Delhi and Div. of fruit science, SKUAST-K.</p>
 <p class="common_list bullet_list edu_list">[Sept 2025] Delivered talk at Malaviya Mission Teacher Training Centre, University of Kashmir in the Refesher Course on Artificial Intelligence and Machine Learning. </p>
